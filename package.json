@@ -1,0 +1,25 @@
+{
+  "name": "learn-es6",
+  "version": "1.0.0",
+  "description": "Playing around with ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-anandaa/learn-es6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-anandaa/learn-es6/issues"
+  },
+  "homepage": "https://github.com/andela-anandaa/learn-es6#readme",
+  "devDependencies": {
+    "vinyl-source-stream": "^1.1.0",
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.1",
+    "gulp": "^3.9.0"
+  }
+}
